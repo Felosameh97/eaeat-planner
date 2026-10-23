@@ -1,0 +1,6 @@
+{
+  "name": "EAEAT Academic Semester Study Planner 2026/2027",
+  "description": "Comprehensive multi-subject academic tracking, attendance, deliverables, 100-mark grades, EAEAT GPA calculator, and smart priority matrix with real-time server synchronization for mobile and PC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
